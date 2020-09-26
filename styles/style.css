@@ -15,7 +15,7 @@ a:active{
   background-color: blanchedalmond;
 }
 .image {
-  background-image: url('pictures/image.jpg');
+  background-image: url('../pictures/image.jpg');
   height: 90%;
   background-position: center;
   background-repeat: no-repeat;
@@ -144,7 +144,7 @@ footer{
   height:100px;
   bottom: 0;
   width: 100%;
-  background-image: url('C:/Users/vicky/Desktop/html/portfolio/pictures/image.jpg');
+  background-image: url('../pictures/image.jpg');
   background-size: cover;
     display: table;
     text-align: center;
